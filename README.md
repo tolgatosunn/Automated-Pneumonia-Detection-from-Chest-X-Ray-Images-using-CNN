@@ -8,9 +8,13 @@ This project develops a Convolutional Neural Network (CNN) to distinguish betwee
 Ensure you have Python 3.x and the following packages installed:
 
 TensorFlow==2.10.1
+
 Keras Tuner==1.4.7
+
 NumPy==1.26.4
+
 Pandas==2.2.1
+
 Matplotlib==3.8.0
 
 To install the dependencies, run:
