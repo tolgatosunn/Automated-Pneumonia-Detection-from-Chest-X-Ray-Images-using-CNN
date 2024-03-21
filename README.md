@@ -41,3 +41,11 @@ The dropout model achieved the best performance with an accuracy of 88.6% and a 
 
 ## Conclusion
 This project highlights the effectiveness of CNNs in medical image analysis, specifically in automating pneumonia detection from chest X-rays. Future work can explore expanding the dataset, experimenting with more complex architectures, and incorporating additional evaluation metrics.
+
+## Acknowledgements
+Special thanks to our team members for their contributions to this project:
+
+- Shehab Aly
+- Rosemary Bagiza
+- Jennifer Garrett
+- Curtis Robinson
