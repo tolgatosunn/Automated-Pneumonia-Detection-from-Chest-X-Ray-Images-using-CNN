@@ -25,6 +25,7 @@ pip install -r requirements.txt
 The dataset comprises 5,863 labeled chest X-ray images from children aged 1 to 5, obtained from the Guangzhou Women and Children’s Medical Center. The images are categorized into 'Pneumonia' and 'Normal'.
 
 You can download the dataset from the below link.
+
 https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
 
 ## Model Development
